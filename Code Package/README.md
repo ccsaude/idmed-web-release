@@ -1,19 +1,22 @@
-# iDMED (v2.0.0)
+# iDMED (v1.9.0)
 
 ## Funcionalidades e Formulários
 
-### Módulo de Gestão de Utentes 
+### Módulo de Gestão de Utentes
+#### Gestão de Utentes
+ - **Actualização dos Dados do Utente através do PDS** - *Ticket 4205*
+ - **Erro ao actualizar o UUID do utente** - *Ticket 4236*
+ 
 #### Gestão de prescrições e dispensas
- - **Incluída a opção de dispensa anual no tipo de dispensa** - *Ticket 4352*
- - **Parametrização do novo medicamento Lenacapavir no serviço PrEP**
+ - **Dispensas pediátricas de medicamentos não reflectem no SESP** - *Ticket 4167*
  
 ### Módulo de Relatórios
 #### Relatório MMIA
-- **Relatório de interoperabilidade IDMED-SESP Incluída a coluna com o status da sincronização**
+- **Revisão do indicador PrEP no MMIA**  - *Ticket #4243*
 
 ### Módulo de Stock
 #### Inventário de Medicamentos
-- **O sistema não aceita trocar a data de abertura do inventário**  - *Ticket #4268 e #4285*
+- **O sistema não aceita trocar a data de abertura do inventário**  - *Ticket #4268*
 
 ### Módulo de Migração de Dados
 #### Migração de dados do iDART para o iDMED
@@ -24,14 +27,14 @@
 ## Documentos
 
 ### Notas da Release
-- **iDMED - 2.0.0 Release Notes_June_2026_v1.0**
+- **DMED - 1.9.0 Release Notes_December_2025**
 
 
 #### Guia de instalação:
-- **iDMED_Guia_Instalação_2.0.0**
+- **iDMED_Guia_Instalação_1.9.0**
 
 ### Documentos de Requisitos iDMED_Web
-- **iDMED_REL_035_Dispensas_SIncronizada e Não_Sincronizadas_SESP_v.1.1**
+- **iiDMED_PAT_007_Sincronização_Dados_Utentes_v1.1**
   
 ---
 
